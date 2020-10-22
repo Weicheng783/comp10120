@@ -1,0 +1,43 @@
+header {
+             height:80px;
+             background-color:#C0504D;
+             color:white;
+             text-align:center; }
+             main {
+             background-color: #F2DBDB;
+             border-top-style: solid;
+             border-top-color: white;
+             float:left;
+             height:300px;
+             padding-left:175px
+                                }
+             footer{
+                    height:100px;
+                    background-color:#C0504D;
+                    text-align:center;
+             
+             }
+aside{
+width:150px;
+                   background-color:#E5B8B7;
+                   text-align:center;
+                   border-top-style: solid;
+                   border-right-style: solid;
+                   border-top-color:white;
+                   border-bottom-color:white;
+                   line-height:50px;
+                   height:300px;
+
+
+}
+
+nav{
+height:50px;
+                 background-color:#E5B8B7;
+                 border-style:solid;
+                 border-color:#E5B8B7;
+                 border-top-color:white;
+                 color:white;
+                 text-align:center;
+                 line-height: 50px;
+}
